@@ -20,3 +20,7 @@ Entwicklung eines Codes für einen autarken KI-Agenten, der die gleichen Fähigk
 - publizieren im GitHub Repo
 - weitere Verbesserungen die du so noch nicht besitzt (z.B. verwendung mehrerer Gimini Modelle)
 - eignung mit anderen APIs über die Kommandozeile andere Anwendungen zu steuern (Einsatz bei Coinbase als Kryptobot)
+
+Arbeitsweise:
+- Erstellen eines Fahrplans (Plan.md) der alle einzelschritte enthält, in dem alle abgearbeiteten Schritte abgehakt oder nach bearbeitung eine spätere nötige änderung vermerkt wird um spätere Sitzungen zu strukturieren.
+- Abarbeiten aller Punkte der Liste, chronologisch, strukturiert, vermerken in Plan.md welche Punkte fertig sind, noch offen sind, ode neu aufgegriffen werden müssen.
